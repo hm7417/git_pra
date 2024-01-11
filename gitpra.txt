@@ -1,3 +1,6 @@
 git practice
 change code.
 rechange code.
+変更を加えたファイルをコミットする
+複数ファイルの変更がどのように作用するか確認する
+sample_Bの追加を実行する
